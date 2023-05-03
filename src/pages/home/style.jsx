@@ -11,4 +11,6 @@ export const Card = styled.div`
   background: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0, 0.5));
   padding: 1rem;
   border-radius: 2rem;
+  justify-self: center;
+
 `
